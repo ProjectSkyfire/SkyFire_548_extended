@@ -1,3 +1,6 @@
 [submodule "dep"]
 	path = dep
 	url = https://github.com/ProjectSkyfire/dep
+	[submodule "src/server/scripts"]
+    path = src/server/scripts
+    url = https://github.com/ProjectSkyfire/scripts
